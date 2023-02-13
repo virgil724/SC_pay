@@ -1,7 +1,7 @@
 {
   "name": "pay-SC",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -33,6 +33,6 @@
   },
   "main": "index.js",
   "author": "TANG CHENG LEE <virgil246@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
   "homepage": "https://virgil724.github.io/SC_pay"
 }
